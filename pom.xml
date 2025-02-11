@@ -38,5 +38,17 @@
 </dependency>
 
 
+  
+    <dependency>
+      <groupId>io.eflabs.vertigo</groupId>
+      <artifactId>vertigo-examples</artifactId>
+      <version>1.0.2</version>
+    </dependency>
+  
+    <dependency>
+      <groupId>io.eflabs.vertigo</groupId>
+      <artifactId>vertigo-examples</artifactId>
+      <version>1.0.2</version>
+    </dependency>
   </dependencies>
 </project>
